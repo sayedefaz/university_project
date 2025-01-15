@@ -1,1 +1,1 @@
-# university_project
+# UCB Projects
